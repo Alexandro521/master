@@ -1,0 +1,16 @@
+{
+  "name": "pdf-fast-maker",
+  "version": "1.0.0",
+  "description": "paquete npm para la creacion de archivos pdf ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "pdf",
+    "maker"
+  ],
+  "author": "Alexandro521",
+  "license": "ISC"
+}
